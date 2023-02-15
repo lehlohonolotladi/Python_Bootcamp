@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a3c9ba7-f6e8-43d4-af60-a310d2b80be7" name="Changes" comment="few changes">
+    <list default="true" id="3a3c9ba7-f6e8-43d4-af60-a310d2b80be7" name="Changes" comment="Fixed naming coventions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="PythonFunctions" />
+        <entry key="$PROJECT_DIR$/PythonBasics" value="PythonFunctions" />
         <entry key="$PROJECT_DIR$/Python_basics" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonBasics" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -42,7 +43,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Lehlohonolo Tladi/PycharmProjects/Lehlohonolo",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -52,6 +55,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lehlohonolo Tladi\PycharmProjects\Python_Bootcamp\Python_Functions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lehlohonolo Tladi\PycharmProjects\Python_Bootcamp" />
       <recent name="C:\Users\Lehlohonolo Tladi\PycharmProjects\Python_Bootcamp\Lists" />
@@ -59,7 +65,7 @@
       <recent name="C:\Users\Lehlohonolo Tladi\PycharmProjects\Python_Bootcamp\Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GetVatExercise">
+  <component name="RunManager" selected="Python.Kwargs">
     <configuration name="CodingExercise113Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,27 +129,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="FrozenSets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Bootcamp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets_and_FrozenSets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets_and_FrozenSets/FrozenSets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="GetVatExercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,6 +142,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.idea/Functions/GetVatExercise.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Bootcamp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Functions/Kwargs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Strings_exercise1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="StringsExercise1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python_Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -198,7 +204,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Strings_exercise1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Lehlohonolo Tladi\PycharmProjects\Python_Bootcamp\Strings\StringsExercise1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,21 +214,21 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.StringsExercise1" />
       <item itemvalue="Python.Conversions" />
-      <item itemvalue="Python.Strings_exercise1" />
+      <item itemvalue="Python.Kwargs" />
       <item itemvalue="Python.CodingExercise113Dictionaries" />
       <item itemvalue="Python.Doc_Strings" />
       <item itemvalue="Python.GetVatExercise" />
       <item itemvalue="Python.ManipulatingDictionaries" />
-      <item itemvalue="Python.FrozenSets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Kwargs" />
         <item itemvalue="Python.GetVatExercise" />
         <item itemvalue="Python.Doc_Strings" />
         <item itemvalue="Python.CodingExercise113Dictionaries" />
         <item itemvalue="Python.ManipulatingDictionaries" />
-        <item itemvalue="Python.FrozenSets" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +297,35 @@
       <option name="project" value="LOCAL" />
       <updated>1676380038820</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fixed naming coventions">
+      <created>1676445059179</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676445059179</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed naming coventions">
+      <created>1676445386874</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676445386874</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed naming coventions.">
+      <created>1676445579150</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676445579150</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed naming coventions.">
+      <created>1676446117284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676446117284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +345,8 @@
     <MESSAGE value="here we work with dictionaries" />
     <MESSAGE value="here we work with Lists" />
     <MESSAGE value="few changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="few changes" />
+    <MESSAGE value="Fixed naming coventions" />
+    <MESSAGE value="Fixed naming coventions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed naming coventions." />
   </component>
 </project>
